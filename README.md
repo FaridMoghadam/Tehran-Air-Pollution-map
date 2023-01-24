@@ -16,6 +16,7 @@ ________________________________________________________________________________
 and learning the following topics:
   - Creating Maps and Visualizing Geospatial Data
   - Creating Dashboards with Plotly and Dash
+  
 I decided to implement a personal project as more practice and learning.
   Considering the dire weather conditions of the great city of Tehran, and being interested in the issue of implementing various types of maps, I chose the issue of Tehran's air quality index!
 
