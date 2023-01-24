@@ -11,13 +11,6 @@ Air Quality Index (AQI) for Stations in 1/24/2023
 𝘱𝘺𝘵𝘩𝘰𝘯 𝘱𝘭𝘰𝘵𝘭𝘺 𝘥𝘢𝘴𝘩
 ________________________________________________________________________________________
 
-
-
-![Alt text](https://raw.githubusercontent.com/FaridMoghadam/Tehran-Air-Pollution-map-/main/Tehran%20Air%20Pollution.jpg"Optional title")
-
-
-
-
 ### Reasons for building the project:
 During the IBM course - Visualizing Data with Python and learning about Dash
 and learning the following topics:
@@ -37,6 +30,12 @@ https://airnow.tehran.ir/home/AQITable.aspx
 Approximately 35 important points of Tehran
 by 6 important air quality indicators (CO/O3/NO2/SO2/PM10/PM2.5)
 Display information in maps in 5 different types and a table
+
+
+
+
+![Alt text](https://raw.githubusercontent.com/FaridMoghadam/Tehran-Air-Pollution-map-/main/Tehran%20Air%20Pollution.jpg "Optional title")
+
 
 
 
