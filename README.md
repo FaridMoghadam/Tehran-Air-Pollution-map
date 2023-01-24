@@ -12,9 +12,12 @@ Air Quality Index (AQI) for Stations in 1/24/2023
 ________________________________________________________________________________________
 
 ### Reasons for building the project:
-During the IBM course - Visualizing Data with Python and learning about DASH
-I decided to implement a project as practice and learning more.
-  Considering the dire weather conditions of the big city of Tehran, and being interested in the topic of implementing various types of maps, I chose the topic of Tehran's air quality index!
+##During the IBM course - Visualizing Data with Python and learning about Dash
+and learning the following topics:
+  - Creating Maps and Visualizing Geospatial Data
+  - Creating Dashboards with Plotly and Dash
+I decided to implement a personal project as more practice and learning.
+  Considering the dire weather conditions of the great city of Tehran, and being interested in the issue of implementing various types of maps, I chose the issue of Tehran's air quality index!
 
 
 ### Source of data: 
