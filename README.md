@@ -11,8 +11,15 @@ Air Quality Index (AQI) for Stations in 1/24/2023
 𝘱𝘺𝘵𝘩𝘰𝘯 𝘱𝘭𝘰𝘵𝘭𝘺 𝘥𝘢𝘴𝘩
 ________________________________________________________________________________________
 
+
+
+![Alt text](https://raw.githubusercontent.com/FaridMoghadam/Tehran-Air-Pollution-map-/main/Tehran%20Air%20Pollution.jpg"Optional title")
+
+
+
+
 ### Reasons for building the project:
-##During the IBM course - Visualizing Data with Python and learning about Dash
+During the IBM course - Visualizing Data with Python and learning about Dash
 and learning the following topics:
   - Creating Maps and Visualizing Geospatial Data
   - Creating Dashboards with Plotly and Dash
