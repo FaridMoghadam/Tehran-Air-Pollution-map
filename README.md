@@ -22,7 +22,7 @@ I decided to implement a personal project as more practice and learning.
 
 
 ### Source of data: 
-https://airnow.tehran.ir/home/AQITable.aspx
+- https://airnow.tehran.ir/home/AQITable.aspx
 
 
 
@@ -47,7 +47,7 @@ https://airnow.tehran.ir/home/AQITable.aspx
 
 
 #### Footnote:
-Undoubtedly, this project has many problems and needs to be improved. I would be happy if you are also interested, we can have a good cooperation to get better.
+- Undoubtedly, this project has many problems and needs to be improved. I would be happy if you are also interested, we can have a good cooperation to get better.
 
 
 
