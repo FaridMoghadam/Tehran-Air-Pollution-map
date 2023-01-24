@@ -27,11 +27,11 @@ https://airnow.tehran.ir/home/AQITable.aspx
 
 
 ### Indicators:
-Approximately 35 important points of Tehran
+  - Approximately 35 important points of Tehran
 
-by 6 important air quality indicators (CO/O3/NO2/SO2/PM10/PM2.5)
+  - by 6 important air quality indicators (CO/O3/NO2/SO2/PM10/PM2.5)
 
-Display information in maps in 5 different types and a table
+  - Display information in maps in 5 different types and a table
 
 
 
