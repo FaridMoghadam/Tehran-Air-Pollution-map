@@ -41,12 +41,17 @@ https://airnow.tehran.ir/home/AQITable.aspx
 
 
 
+
 #### My achievements in this project:
 - Practicing Python coding, learning Dash and plotly, implementing map types and connecting to data, learning callbacks, implementing dash_table and other things...
 
 
-Learning continues ♥
+#### Footnote:
+Undoubtedly, this project has many problems and needs to be improved. I would be happy if you are also interested, we can have a good cooperation to get better.
 
+
+
+Learning continues ♥
 
 ________________________________________________________________________________________
 
