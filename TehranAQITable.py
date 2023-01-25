@@ -225,7 +225,9 @@ def get_graph(chart, year,children):
 
         elif chart == 'OPT5':
             
+            # You must enter your token here
             mapbox_access_token = ""
+            
             fig = go.Figure(go.Scattermapbox(
                                 lat=df['lat'], 
                                 lon=df['lon'],
